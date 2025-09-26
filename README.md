@@ -52,3 +52,13 @@ here some photos:
 **screen to gain more acces to the system:**
 
 <img width="550" height="786" alt="Screenshot 2025-09-27 000952" src="https://github.com/user-attachments/assets/4e6784ce-3377-4ec2-960c-4b83ccc3c2c3" />
+
+**,,cleanup,, screen to make the user trust the encryption prozess as a legitime programm that ,,cleans up,, the Phones unused Data:**
+
+<img width="475" height="786" alt="Screenshot 2025-09-27 001144" src="https://github.com/user-attachments/assets/e087cf80-128e-4b89-b3be-84ff24f44d42" />
+
+**ransom message screen:**
+
+<img width="478" height="786" alt="Screenshot 2025-09-27 001212" src="https://github.com/user-attachments/assets/32e09e4d-5d04-43fd-b41f-fa72282f494d" />
+
+
