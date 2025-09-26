@@ -36,4 +36,5 @@ Basically, it goes after all the important stuff:
 - Zip files and archives
 - Even app files and databases
 
-- full supported encryption file extensions here:
+- full supported encryption file extensions here:[File_extensions](https://github.com/Sh1r0ko11/AndroCrypt/blob/main/file_extensions.txt)
+
