@@ -8,6 +8,9 @@
 ![Security](https://img.shields.io/badge/Security-Ransomware-red)
 ![Educational](https://img.shields.io/badge/Purpose-Educational-blue)
 
+![Easy Encryption](https://github.com/user-attachments/assets/fe3a9288-b503-42c4-bd3b-b9aff65e64ca)
+
+
 **⚠️ Important Warning: This is strictly for learning and research purposes only! ⚠️**
 
 ## What is AndroCrypt?
