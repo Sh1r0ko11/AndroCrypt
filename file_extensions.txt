@@ -1,0 +1,9 @@
+ ".jpg", ".jpeg", ".png", ".bmp", ".gif", ".pdf", ".doc", ".docx", 
+            ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".rtf", ".csv", ".xml",
+            ".zip", ".rar", ".7z", ".mp3", ".mp4", ".avi", ".mov", ".mkv",
+            ".apk", ".db", ".sql", ".json", ".html", ".htm", ".php", ".js",
+            ".odt", ".ods", ".odp", ".odg", ".odf", ".py", ".java", ".c", 
+            ".cpp", ".h", ".cs", ".vb", ".rb", ".pl", ".php", ".asp", ".aspx",
+            ".jsp", ".md", ".svg", ".psd", ".ai", ".indd", ".eps", ".tif", 
+            ".tiff", ".wav", ".flac", ".aac", ".m4a", ".ogg", ".wma", ".epub",
+            ".mobi", ".azw", ".azw3", ".fb2", ".djvu", ".key", ".pages", ".numbers"
