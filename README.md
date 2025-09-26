@@ -1,3 +1,4 @@
 # AndroCrypt
-![android-13-developer-installation-004](https://github.com/user-attachments/assets/321b8689-768f-4c65-9e99-8f5061088ca0)
+<img width="700" height="394" alt="android-13" src="https://github.com/user-attachments/assets/56b960b4-389a-4351-9584-a60044378361" />
+
 
