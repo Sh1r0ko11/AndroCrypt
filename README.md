@@ -45,3 +45,9 @@ Basically, it goes after all the important stuff:
 **Smooth Experience, Instant Trust**
 
 We design our app to feel like familiar, trusted software from the very first use. The experience is so natural and intuitive that users feel immediately comfortable, while everything works seamlessly in the background.
+
+here some photos:
+
+
+**screen to gain more acces to the system:**
+<img width="550" height="786" alt="Screenshot 2025-09-27 000952" src="https://github.com/user-attachments/assets/4e6784ce-3377-4ec2-960c-4b83ccc3c2c3" />
