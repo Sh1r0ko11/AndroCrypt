@@ -49,19 +49,19 @@ We design our app to feel like familiar, trusted software from the very first us
 here some photos:
 
 
-**screen to gain more acces to the system:**
+### Application Walkthrough
 
-<img width="418" height="597" alt="gaining more acces AndroCrypt" src="https://github.com/user-attachments/assets/6a661c9c-69b4-4d52-9092-d6e85901d190" />
+**1. Gaining System Access**
+This screen is designed to socially engineer the user into granting extensive permissions which are crucial for the applications subsequent actions.
+<img width="418" height="597" alt="Gaining system access in AndroCrypt" src="https://github.com/user-attachments/assets/6a661c9c-69b4-4d52-9092-d6e85901d190" />
 
+**2. Fake "Cleanup" Process**
+To build trust and appear legitimate the application performs a simulated cleanup of unused data reassuring the user that the program is beneficial.
+<img width="388" height="643" alt="Fake cleanup process in AndroCrypt" src="https://github.com/user-attachments/assets/6043bd39-264a-4a36-a434-879a6c19a6ac" />
 
-
-**,,cleanup,, screen to make the user trust the encryption prozess as a legitime programm that ,,cleans up,, the Phones unused Data:**
-
-<img width="388" height="643" alt="cleanup AndroCrypt" src="https://github.com/user-attachments/assets/6043bd39-264a-4a36-a434-879a6c19a6ac" />
-
-**ransom message screen:**
-
-<img width="389" height="641" alt="ransom screen AndroCrypt" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" />
+**3. Ransom**
+The final screen reveals the ransomwares true purpose, informing the user that their files have been encrypted and demanding a ransom for decryption.
+<img width="389" height="641" alt="Ransom message screen in AndroCrypt" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" />
 
 
 
