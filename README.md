@@ -3,3 +3,5 @@
 
 
 # AndroCrypt supports Phones from 13+ to the **NEWEST** android versions out there.
+
+IT works on
