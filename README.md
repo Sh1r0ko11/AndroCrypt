@@ -28,6 +28,7 @@ AndroCrypt is a Android ransomware that shows how modern ransomware operates on 
 - **Startup** The AndroCrypt software starts on boot so even if the device is shutdown or rebooted it will continue displaying the ransom message screen
 
 
+
 ### Files It Can Encrypt
 Basically, it goes after all the important stuff:
 - Documents (PDF, Word, Excel, text files)
