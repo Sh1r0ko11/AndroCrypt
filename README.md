@@ -51,14 +51,17 @@ here some photos:
 
 **screen to gain more acces to the system:**
 
-<img width="550" height="786" alt="Screenshot 2025-09-27 000952" src="https://github.com/user-attachments/assets/4e6784ce-3377-4ec2-960c-4b83ccc3c2c3" />
+<img width="418" height="597" alt="gaining more acces AndroCrypt" src="https://github.com/user-attachments/assets/6a661c9c-69b4-4d52-9092-d6e85901d190" />
+
+
 
 **,,cleanup,, screen to make the user trust the encryption prozess as a legitime programm that ,,cleans up,, the Phones unused Data:**
 
-<img width="475" height="786" alt="Screenshot 2025-09-27 001144" src="https://github.com/user-attachments/assets/e087cf80-128e-4b89-b3be-84ff24f44d42" />
+<img width="388" height="643" alt="cleanup AndroCrypt" src="https://github.com/user-attachments/assets/6043bd39-264a-4a36-a434-879a6c19a6ac" />
 
 **ransom message screen:**
 
-<img width="478" height="786" alt="Screenshot 2025-09-27 001212" src="https://github.com/user-attachments/assets/32e09e4d-5d04-43fd-b41f-fa72282f494d" />
+<img width="389" height="641" alt="ransom screen AndroCrypt" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" />
+
 
 
