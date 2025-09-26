@@ -46,22 +46,32 @@ Basically, it goes after all the important stuff:
 
 We design our app to feel like familiar, trusted software from the very first use. The experience is so natural and intuitive that users feel immediately comfortable, while everything works seamlessly in the background.
 
-here some photos:
+## A Step-by-Step Look
 
+### 1: The Permission Trap
+First the app sweet-talks the user into giving it the keys to the kingdom. It presents itself as a helpful tool that needs special access to "optimize" the device.
 
-### Application Walkthrough
+<div align="center">
+<img width="300" alt="The app requesting permissions" src="https://github.com/user-attachments/assets/6a661c9c-69b4-4d52-9092-d6e85901d190" />
+</div>
 
-**1. Gaining System Access**
-This screen is designed to socially engineer the user into granting extensive permissions which are crucial for the applications subsequent actions.
-<img width="418" height="597" alt="Gaining system access in AndroCrypt" src="https://github.com/user-attachments/assets/6a661c9c-69b4-4d52-9092-d6e85901d190" />
+---
 
-**2. Fake "Cleanup" Process**
-To build trust and appear legitimate the application performs a simulated cleanup of unused data reassuring the user that the program is beneficial.
-<img width="388" height="643" alt="Fake cleanup process in AndroCrypt" src="https://github.com/user-attachments/assets/6043bd39-264a-4a36-a434-879a6c19a6ac" />
+### 2: The Fake Cleanup
+Once it has access the app puts on a convincing show. It displays a progress bar that makes it look like its hard at work cleaning up junk files and optimizing performance. This is all theater designed to make the user feel like everything is working perfectly.
 
-**3. Ransom**
-The final screen reveals the ransomwares true purpose, informing the user that their files have been encrypted and demanding a ransom for decryption.
-<img width="389" height="641" alt="Ransom message screen in AndroCrypt" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" />
+<div align="center">
+<img width="300" alt="The fake cleanup screen" src="https://github.com/user-attachments/assets/6043bd39-264a-4a36-a434-879a6c19a6ac" />
+</div>
+
+---
+
+### 3: The Reveal
+The curtain drops. After the fake cleanup "finishes" the user is greeted with the ransom note. Their files are encrypted, screen is locked and the app makes it clear that paying up is the only way out.
+
+<div align="center">
+<img width="300" alt="The ransom demand screen" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" />
+</div>
 
 
 
