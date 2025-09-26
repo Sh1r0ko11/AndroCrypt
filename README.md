@@ -13,7 +13,7 @@
 ## What is AndroCrypt?
 
 AndroCrypt is a Android ransomware that shows how modern ransomware operates on newer Android devices (version 13 and up). It fully encrypts mostly every file on the Device and externel (SSD-Cards)
-![Ransomware Concept](https://via.placeholder.com/800x400.png?text=AndroCrypt+Shows+How+Ransomware+Works)
+
 
 ## What Can It Do?
 
@@ -23,3 +23,4 @@ AndroCrypt is a Android ransomware that shows how modern ransomware operates on 
 - **Fast Processing**: Encrypts files quickly without slowing down the device
 - **Proper Decryption**: Can actually unlock your files with the right key
 - **Server Reporting**: Sends infection details to a monitoring server
+- **Decryption key system** sends Decryption key from specific infected device ID to a server or webhook
