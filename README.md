@@ -40,4 +40,4 @@ Basically, it goes after all the important stuff:
 - full supported encryption file extensions here: [File_extensions](https://github.com/Sh1r0ko11/AndroCrypt/blob/main/file_extensions.txt)
 
 
-# we make it __easy__
+# we make it _easy_
