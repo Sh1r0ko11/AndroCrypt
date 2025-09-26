@@ -50,4 +50,5 @@ here some photos:
 
 
 **screen to gain more acces to the system:**
+
 <img width="550" height="786" alt="Screenshot 2025-09-27 000952" src="https://github.com/user-attachments/assets/4e6784ce-3377-4ec2-960c-4b83ccc3c2c3" />
