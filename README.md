@@ -77,4 +77,11 @@ The curtain drops. After the fake cleanup "finishes" the user is greeted with th
 </div>
 
 
+## Tools and requirements you need
 
+a must need is:
+- **Kotlin**
+- **python 3.11**
+- **Java**
+- **AndroidStudio**
+- **VSC** (recommended but no must)
