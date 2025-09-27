@@ -74,7 +74,9 @@ The curtain drops. After the fake cleanup "finishes" the user is greeted with th
 <img width="300" alt="The ransom demand screen" src="https://github.com/user-attachments/assets/4337d6b1-4993-4e3c-a211-44d905b5d8cb" /
 
 ## Device Layout:
+<div align="center">
 <img width="488" height="763" alt="Screenshot 2025-09-27 215228" src="https://github.com/user-attachments/assets/4fa2e00f-1fdf-456c-884a-25e2b35f8805" />
+</div>
 
 ## Tools and requirements you need
 
