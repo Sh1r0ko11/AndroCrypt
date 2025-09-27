@@ -79,7 +79,7 @@ The curtain drops. After the fake cleanup "finishes" the user is greeted with th
 
 ## Tools and requirements you need
 
-a must need is:
+
 - **Kotlin**
 - **python 3.11**
 - **Java**
