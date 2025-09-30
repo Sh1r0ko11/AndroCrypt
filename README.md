@@ -1,5 +1,6 @@
 # AndroCrypt
-<img width="700" height="394" alt="android-13" src="https://github.com/user-attachments/assets/56b960b4-389a-4351-9584-a60044378361" />
+![android-14-376844](https://github.com/user-attachments/assets/dad2a15f-dbd6-4540-81fb-4c2d84fd85fa)
+
 
 
 # AndroCrypt - Android Ransomware 
