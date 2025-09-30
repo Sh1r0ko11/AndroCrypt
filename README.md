@@ -1,5 +1,6 @@
 # AndroCrypt
-![android-14-376844](https://github.com/user-attachments/assets/dad2a15f-dbd6-4540-81fb-4c2d84fd85fa)
+<img width="1200" height="713" alt="android-14-376844" src="https://github.com/user-attachments/assets/8966cae7-095c-494d-a54d-098d45660859" />
+
 
 
 
