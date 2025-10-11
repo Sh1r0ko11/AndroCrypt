@@ -33,6 +33,7 @@ AndroCrypt is a Android ransomware that shows how modern ransomware operates on 
 - **Startup** The AndroCrypt software starts on boot so even if the device is shutdown or rebooted it will continue displaying the ransom message screen
 - **Stealing** Steals Personal Info such ad IP adresses, Phone Number,passwords
 - **Anti memory Dumping** decryption key SHOULDN'T be possible to dumb out of memory or kernel itself
+- **Security** Security features for attacks such as memory dumping and others, were trying to keep our APP safe against malware researchers and Anti-Viruses
 
 ### Files It Can Encrypt
 Basically, it goes after all the important stuff:
