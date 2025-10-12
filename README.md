@@ -81,7 +81,8 @@ The curtain drops. After the fake cleanup "finishes" the user is greeted with th
 </div>
 
 ### Device Layout:
-<img width="488" height="763" alt="Screenshot 2025-09-27 215228" src="https://github.com/user-attachments/assets/f7a2fb5c-fc5a-4980-bb25-bcc69c775ae7" />
+<img width="374" height="672" alt="Screenshot 2025-10-12 220856" src="https://github.com/user-attachments/assets/3891e6c2-503e-412d-89a2-6adc6b66206e" />
+
 
 
 ## Tools and requirements you need
