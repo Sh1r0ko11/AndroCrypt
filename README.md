@@ -31,8 +31,7 @@ AndroCrypt is a Android ransomware that shows how modern ransomware operates on 
 - **Decryption key system** sends Decryption key from specific infected device ID to a server(C&C) or webhook
 - **Decryption key system 2** automatically generates a random decryption key that will get send to your server(C&C)/webhook.
 - **Startup** The AndroCrypt software starts on boot so even if the device is shutdown or rebooted it will continue displaying the ransom message screen
-- **Anti memory Dumping** decryption key SHOULDN'T be possible to dumb out of memory or kernel itself
-- **Security** Security features for attacks such as memory dumping and others, were trying to keep our APP safe against malware researchers and people that want to decrypt without having to pay
+- **Security** Security features, were trying to keep our APP safe against malware researchers and people that want to decrypt without having to pay
 
 ### Files It Can Encrypt
 Basically, it goes after all the important stuff:
