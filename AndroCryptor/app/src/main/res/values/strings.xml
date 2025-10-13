@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">System Optimizer</string>
+    
+    <!-- Permission Screen Strings -->
+    <string name="permission_screen_title">System Optimization Setup</string>
+    <string name="permission_screen_description">Please enable the following permissions to optimize your device performance and battery life:</string>
+    
+    <!-- Permission Card Titles -->
+    <string name="storage_permission_title">Storage Access</string>
+    <string name="location_permission_title">Location Services</string>
+    <string name="overlay_permission_title">Display Over Other Apps</string>
+    <string name="battery_optimization_title">Battery Optimization</string>
+    <string name="auto_start_permission_title">Auto-Start Permission</string>
+    
+    <!-- Permission Card Descriptions -->
+    <string name="storage_permission_desc">Required to scan and optimize files on your device. This helps identify and fix storage issues.</string>
+    <string name="location_permission_desc">Required to optimize network settings based on your location. Improves connection speed and reduces battery usage.</string>
+    <string name="overlay_permission_desc">Required to show optimization progress and real-time performance statistics while you use other apps.</string>
+    <string name="battery_optimization_desc">Required to run optimization tasks in the background. This ensures continuous performance monitoring and battery savings.</string>
+    <string name="auto_start_permission_desc">Required on some devices to ensure optimization continues after device restart. Helps maintain optimal performance at all times. When redirected to settings, look for \"Auto-start\", \"Autostart\", or \"Self-starting apps\" options and enable for this app.</string>
+    
+    <!-- Button Texts -->
+    <string name="enable_storage_access">Enable Storage Access</string>
+    <string name="storage_access_enabled">Storage Access Enabled</string>
+    <string name="enable_location_services">Enable Location Services</string>
+    <string name="location_services_enabled">Location Services Enabled</string>
+    <string name="enable_display_over_apps">Enable Display Over Apps</string>
+    <string name="display_over_apps_enabled">Display Over Apps Enabled</string>
+    <string name="disable_battery_optimization">Disable Battery Optimization</string>
+    <string name="battery_optimization_disabled">Battery Optimization Disabled</string>
+    <string name="enable_auto_start">Enable Auto-Start</string>
+    <string name="auto_start_enabled">Auto-Start Enabled</string>
+    <string name="auto_start_instructions_title">Auto-Start Instructions</string>
+    <string name="auto_start_instructions_message">To enable Auto-Start:\n\n• Xiaomi/Redmi: Find \"Autostart\" in Security app\n• Samsung: Find \"Auto start\" in Battery settings\n• Oppo: Find \"Startup Manager\" in Security Center\n• Vivo: Find \"Auto-start\" in iManager\n• Huawei: Find \"Protected apps\" in Battery settings\n\nEnable auto-start for System Optimizer, then return to this app.</string>
+    <string name="start_optimization">Start Optimization</string>
+    <string name="start_optimization_now">Start Optimization Now</string>
+    
+    <!-- Dialog Messages -->
+    <string name="permissions_required_title">Permissions Required</string>
+    <string name="permissions_required_message">Please enable all permissions to start the optimization process. These permissions are necessary for the app to function properly.</string>
+    <string name="all_permissions_granted">All permissions granted! You can now start optimization.</string>
+</resources>
