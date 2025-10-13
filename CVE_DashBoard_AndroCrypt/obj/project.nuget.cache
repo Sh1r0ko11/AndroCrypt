@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "al80272A/ZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vboxuser\\Documents\\CVE_DashBoard_AndroCrypt\\CVE_DashBoard_AndroCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vboxuser\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\vboxuser\\.nuget\\packages\\microsoft.web.webview2\\1.0.3537.50\\microsoft.web.webview2.1.0.3537.50.nupkg.sha512"
+  ],
+  "logs": []
+}
