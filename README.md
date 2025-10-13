@@ -76,7 +76,7 @@ Once it has access the app puts on a convincing show. It displays a progress bar
 ### 3: The Reveal
 The curtain drops. After the fake cleanup "finishes" the user is greeted with the ransom note. Their files are encrypted, screen is locked and the app makes it clear that paying up is the only way out.
 <div align="center">
-<img width="448" height="792" alt="Screenshot 2025-10-13 195002" src="https://github.com/user-attachments/assets/9e00860e-2aba-47d5-a9c2-6930a9aa2a6a" />
+<img width="376" height="664" alt="AndroCryptRansomScreen" src="https://github.com/user-attachments/assets/cd712062-dcd9-405a-924d-0b12ea6b6d78" />
 </div>
 
 ### Device Layout:
