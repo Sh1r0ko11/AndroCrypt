@@ -35,7 +35,7 @@ AndroCrypt is a Android ransomware that shows how modern ransomware operates on 
 
 ### Files It Can Encrypt
 Basically, it goes after all the important stuff:
-- Documents (PDF, Word, Excel, text files)
+- Documents (PDF, Word, Excel, text files) 
 - Photos and images (JPG, PNG, etc.)
 - Videos and music files
 - Zip files and archives
