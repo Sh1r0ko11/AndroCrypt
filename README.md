@@ -92,3 +92,7 @@ The curtain drops. After the fake cleanup "finishes" the user is greeted with th
 - **Java**
 - **AndroidStudio**
 - **VSC** (recommended but no must)
+
+
+(Update 7/7/2026) 
+Update soon, full PC AndroCrypt ransom builder,eway easier, more custom stuff,better stable . apk
